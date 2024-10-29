@@ -11,6 +11,9 @@ This project aimed to develop and train two deep learning models—a Variational
 
 Programming Language: Python
 
+# Output
+![Screenshot 2024-10-29 173728](https://github.com/user-attachments/assets/743271b3-d5bf-48cc-bf89-f50e59d602cf)
+
 
 # Libraries:
 
